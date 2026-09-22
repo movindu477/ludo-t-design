@@ -7,3 +7,9 @@ COMP63038 Clean Coding and Concurrent Programming — Assignment 1
 [![Class diagram](diagrams/class-diagram.svg)](diagrams/class-diagram.svg)
 
 Click the image to open it at full size. Use Ctrl + scroll to zoom.
+
+## State Transition Diagram — Piece Lifecycle
+
+[![State diagram](diagrams/state-diagram.svg)](diagrams/state-diagram.svg)
+
+Click the image to open it at full size.
