@@ -13,3 +13,9 @@ Click the image to open it at full size. Use Ctrl + scroll to zoom.
 [![State diagram](diagrams/state-diagram.svg)](diagrams/state-diagram.svg)
 
 Click the image to open it at full size.
+
+## Activity Diagram — Game Simulation Flow
+
+[![Activity diagram](diagrams/activity-diagram.svg)](diagrams/activity-diagram.svg)
+
+Click the image to open it at full size.
